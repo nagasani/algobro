@@ -1,0 +1,6 @@
+Two Pointer
+  - Two Sum
+Sliding Window
+   - ramarajunagasani
+Back Tracking
+
